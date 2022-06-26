@@ -1,0 +1,22 @@
+.row{
+    padding: 20px;
+}
+div{
+    background-color: rgb(36, 34, 41);
+    text-align: center;
+    color: white;
+}
+
+/* etiqueta fotoperfil */
+#fotoperfil{
+    
+}
+
+
+/* etiqueta de nombre */
+#nombre{
+    font-weight: bold;
+    margin-top: 28%;
+    
+}
+

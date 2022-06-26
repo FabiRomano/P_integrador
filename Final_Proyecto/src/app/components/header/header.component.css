@@ -1,8 +1,8 @@
 div{
-    background-color: rgba(1, 14, 20, 0.911);
+    background-color:rgb(36, 34, 41);
 }
 app-social{
     float: right;
-    margin-top: 25px;
+    margin-top: 18px;
     border-radius: 5px;
 }
