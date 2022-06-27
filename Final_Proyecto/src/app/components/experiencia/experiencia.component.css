@@ -1,0 +1,11 @@
+.row{
+    padding:20 px;
+    color: white;
+    border-radius:5px;
+}
+div{
+   background:rgb(7, 112, 160)  
+}
+h1, h3{
+    display: inline;
+}
