@@ -1,11 +1,14 @@
 .row{
-    padding: 3px;
+    padding: 10px;
     color: white;
-    border-radius:50px;
+    
 }
+
 div{
-    background-color: rgba(30, 27, 167, 0.247); 
+    padding: 20px;
+
 }
-h1, h3{
+
+h2, h4{
     display: inline;
 }

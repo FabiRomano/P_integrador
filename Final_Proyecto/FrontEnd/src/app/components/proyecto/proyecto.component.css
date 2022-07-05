@@ -1,25 +1,25 @@
 .row{
-    background-color: rgba(30, 27, 167, 0.247);
-    padding: 15px;
-    border-radius: 50px;
     color: white;
-    
-
-}
+    margin-left: 0px;
+    padding: auto;
+ }
 
 .contenedor{
     width: auto;
-    
+  
 }
 
 .parte1, .parte2{
     display: inline-block;
     text-align: justify;
+    padding: 10px;
 
     
 }
 
 .img-proyecto{
-  box-shadow: 15px 10px 30px black;  
+   
+  box-shadow: 10px -5px 10px rgb(252, 50, 128);
   box-shadow: ejeX ejeY difumasion color;
 }
+
